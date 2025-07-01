@@ -7,7 +7,7 @@
 ## 🚀 Sobre mí
 
 - 🌍 **Ubicación**: Buenos Aires, Argentina  
-- 📚 **Educación**: Desarrollador Back-End Java (ONE - Oracle Next Education)  
+- 📚 **Educación**: Ingeniería en Informática (UNMdP - en curso)
 - 🛠️ **Tecnologías favoritas**:  
   - **Back-End**: Java, Spring Boot, Spring Security  
   - **Front-End**: React, Ionic, TypeScript  
@@ -21,6 +21,18 @@
 ---
 
 ## 📂 Proyectos Destacados
+
+### 🌟 [Gestión académica Le-Dance](https://github.com/JerePrograma/le-dance)  
+**Descripción**: Plataforma integral para empresas de transporte que gestiona presupuestos, usuarios y logística.  
+**Descripción**:  
+- sistema de gestión académica con autenticación JWT,
+manejo de usuarios, notas, gastos, roles y reportes imprimibles.
+- Desarrollo y despliegue con arquitectura por capas.
+- Despliegue en VPS con Ubuntu 22.04, Docker, Nginx, certificado SSL y Cloudflare para DNS.
+- Administración de versiones con GitHub y automatización de CI/CD con GitHub Actions.
+- Desarrollo de APIs RESTful seguras y escalables con Spring Security. 
+
+**Logro**: Desarrollo completo con integración de seguridad robusta y JWT.
 
 ### 🌟 [PresupuestadorFlete](https://github.com/JerePrograma/PresupuestadorFlete)  
 **Descripción**: Plataforma integral para empresas de transporte que gestiona presupuestos, usuarios y logística.  
